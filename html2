@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style>
+#tour {
+	height: 1150px;
+}
+#footer {
+	height: 360px;
+	background-color: #F69
+	;
+}
+#footer .top {
+	widows: 1263px;
+	height: 280px;
+	margin: 0 auto;
+	text-align: center;
+}
+#footer .block {
+	width: 410px;
+	height: 320px;
+	display: inline-block;
+	color: #FF0;
+	text-align: left;
+	vertical-align: top;
+}
+#footer h2 {
+	font-weight: normal;
+	padding: 20px 0 0 20px;
+	font-size: 24px;
+}
+#footer hr {
+	width: 90%;
+	border: 1px dashed #0F0;
+}
+#footer ul {
+	color: #09F;
+	font-size: 18px;
+	text-indent: -20px;
+	list-height: 2;
+	list-style:none;
+}
+</style>
+	
+</head>
+
+<body>
+<footer id="footer">
+<div class="top">
+<div class="block left">
+<h2>合作伙伴</h2>
+<hr>
+<ul>
+<li>途牛旅游网</li>
+<li>驴妈妈旅游网</li>
+<li>携程旅游</li>
+</ul>
+</div>
+<div class="block center">
+<h2>旅游 FAQ</h2>
+<hr>
+<ul>
+<li>旅游合同签订方式？</li>
+<li>儿童价是基于什么定制的？</li>
+<li>旅游的路线品质怎么界定的？</li>
+<li>单房差是什么？</li>
+<li>旅游保险有那些种类？</li>
+</ul>
+</div>
+<div class="block right">
+<h2>联系方式</h2>
+<hr>
+<ul>
+<li>微博：weibo.com/ycku</li>
+<li>邮件：ycku@ycku.com</li>
+<li>地址：江苏盐城无名路 123 号</li>
+</ul>
+</div>
+</div>
+</footer>
+
+</body>
+</html>
